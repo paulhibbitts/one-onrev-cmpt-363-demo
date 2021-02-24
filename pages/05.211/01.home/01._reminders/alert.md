@@ -9,7 +9,7 @@ hide_git_sync_repo_link: false
 
 ## What’s Happening This Week 💫
 
-### How can you conduct a user interface inspection?
+### How to conduct a user interface inspection?
 
 #### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/61465/external_tools/3544)  
 
