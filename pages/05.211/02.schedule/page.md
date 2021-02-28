@@ -51,6 +51,7 @@ show_sidebar: true
 ## [[fa="calendar-o"][/fa]Week 5 (Feb 8 - 14)](../home/week-05)
 
 **How to explore and describe possible design solutions?**    
+[fa="check" /][Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/61465/assignments/610787) [badge label="Mon Feb 8th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20210208T2359&p1=256" /]  
 [fa="desktop" /][plugin:page-inject](/211/online-sessions/week-05-1)  
 [fa="desktop" /][plugin:page-inject](/211/online-sessions/week-05-2)  
 [fa="book" /][plugin:page-inject](/211/weekly-readings/week-05-1?template=partials/embedlycardlinkonly)  
@@ -95,6 +96,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 ## [[fa="calendar-o"][/fa]Week 10 (Mar 15 - 21)](../home/week-10)
 
 **What are the essentials of visual interface design?**  
+[fa="check" /][Group Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/61465/assignments/610786) [badge label="Mon Mar 15th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboards+Mockups+Due+Date&iso=20210315T2359&p1=256" /]  
 [fa="pencil" /][Group Interactive Prototype](https://canvas.sfu.ca/courses/61465/assignments/610788) [badge label="Mon Apr 5th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Interactive+Prototype+Due+Date&iso=20210405T2359&p1=256" /]  
 [fa="folder" /][Team Member Evaluation](https://www.surveymonkey.ca/r/JQ5XWND) [badge label="Tue Apr 6th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20210406T235900&p1=256" /]  
 [fa="desktop" /][plugin:page-inject](/211/online-sessions/week-10-1)  
@@ -122,6 +124,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 ## [[fa="calendar-o"][/fa]Week 13 (Apr 5 - 11)](../home/week-13)
 
 **How to plan, conduct, and summarize usability tests?**   
+[fa="check" /][Group Interactive Prototype](https://canvas.sfu.ca/courses/61465/assignments/610788) [badge label="Mon Apr 5th 11:59pm PST" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Interactive+Prototype+Due+Date&iso=20210405T2359&p1=256" /]  
 [fa="desktop" /][plugin:page-inject](/211/online-sessions/week-13-1)  
 [fa="desktop" /][plugin:page-inject](/211/online-sessions/week-13-2)  
 [fa="book" /][plugin:page-inject](/211/weekly-readings/week-13-1?template=partials/embedlycardlinkonly)  
