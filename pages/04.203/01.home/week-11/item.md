@@ -23,7 +23,7 @@ hide_from_post_list: false
 [plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-11)  
 
 ### Assignments
-[Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Mon Dec 7th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20201207T2359"]
+[Interactive Prototype](https://canvas.sfu.ca/courses/56304/assignments/504174) [badge label="Mon Dec 7th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+or+Individual+Interactive+Prototype+Due+Date&iso=20201207T2359"]
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-11-1?template=partials/embedlycardlinkonly)  

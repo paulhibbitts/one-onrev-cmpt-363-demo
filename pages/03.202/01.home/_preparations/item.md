@@ -11,17 +11,17 @@ header_image_file: /202/home/_preparations
 
 [div class="keeptogether"]
 Zoom Open Office Hours:  
-[Wednesdays 12:30-1:00pm PDT](https://www2.cs.sfu.ca/CourseCentral/363/paulh/open-office-hours)  
+[Wednesdays 12:30-1:00pm PT](https://www2.cs.sfu.ca/CourseCentral/363/paulh/open-office-hours)  
 
 Zoom 1-on-1 Office Hours:  
-[Wednesdays 1:00-1:30pm PDT](https://www2.cs.sfu.ca/CourseCentral/363/paulh/1-on-1-office-hours/)  
+[Wednesdays 1:00-1:30pm PT](https://www2.cs.sfu.ca/CourseCentral/363/paulh/1-on-1-office-hours/)  
 [/div]
 
 [/columns]
 
 ## Looking Ahead to the Final Exam
 
-* [Online Final Exam](https://canvas.sfu.ca/courses/53207/quizzes) Aug 21st 12:00pm - 3:00pm PDT
+* [Online Final Exam](https://canvas.sfu.ca/courses/53207/quizzes) Aug 21st 12:00pm - 3:00pm PT
 * Do a [Browser check](https://www.whatismybrowser.com/) before - Firefox or Google Chrome recommended
 * Take the exam at a quiet location, with a wired Internet connection or strong WiFi signal
 * Write your answers in a word processing app and then paste them into Quiz answer fields

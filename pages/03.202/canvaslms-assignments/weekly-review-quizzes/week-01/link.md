@@ -5,6 +5,6 @@ visible: true
 link_text: 'Week 1 Review Quiz (Practice)'
 link_url: 'https://canvas.sfu.ca/courses/53207/assignments/457114'
 badge_display: true
-badge_label: 'May 15th 11:59pm PDT'
+badge_label: 'May 15th 11:59pm PT'
 never_cache_twig: true
 ---

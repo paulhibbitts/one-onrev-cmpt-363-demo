@@ -9,11 +9,11 @@ published: true
 ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/53207/external_tools/3544)  
 
 * [plugin:page-inject](../../blackboard-sessions/week-13-1)
-* Open Office Hours Thur Aug 6th 2:30pm PDT
+* Open Office Hours Thur Aug 6th 2:30pm PT
 
 ### Important Reminders
 
-* [Online Final Exam](https://canvas.sfu.ca/courses/53207/quizzes) [badge label="Aug 21st 12:00pm PDT"]  
+* [Online Final Exam](https://canvas.sfu.ca/courses/53207/quizzes) [badge label="Aug 21st 12:00pm PT"]  
 
 ### Required Readings & One-Minute Summaries
 No weekly readings or one-minute summaries this week.

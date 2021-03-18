@@ -6,7 +6,7 @@ header_image: true
 
 ## Looking Ahead to the Final Exam 🔭
 
-- Online Final Exam Dec 9th 12:00pm - 3:00pm PST (or Dec 9th 7:00pm - 10:00pm PST)
+- Online Final Exam Dec 9th 12:00pm - 3:00pm PT (or Dec 9th 7:00pm - 10:00pm PT)
 - Do a [Browser check](https://www.whatismybrowser.com/) before - Firefox or Google Chrome recommended
 - Take the exam at a quiet location, with a wired Internet connection or strong WiFi signal
 - Write your answers in a word processing app and then paste them into Quiz answer fields
