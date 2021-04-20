@@ -3,7 +3,7 @@ title: Resources
 published: true
 ---
 
-## Adobe XD App
+## Adobe XD
 *   [Adobe XD Downloads](https://www.adobe.com/ca/products/xd.html)
 *   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
 *   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
