@@ -4,7 +4,7 @@ published: true
 visible: true
 link_text: 'Week 5 Review Quiz'
 link_url: 'https://canvas.sfu.ca/courses/56304/assignments/504182'
-badge_label: 'Fri Oct 9th 11:59pm PT'
+badge_label: 'Fri Oct 9th 11:59pm PDT'
 badge_url: 'https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Review+Quiz+Due+Date&iso=20201009T235900'
 never_cache_twig: true
 ---

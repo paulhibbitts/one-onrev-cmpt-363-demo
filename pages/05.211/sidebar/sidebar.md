@@ -20,13 +20,16 @@ Teaching Assistants
 
 ## Canvas LMS Tools
 [fa="calendar"][/fa][Calendar](https://canvas.sfu.ca/calendar)  
-[fa="pencil"][/fa][Assignments](https://canvas.sfu.ca/courses/61465/assignments)  
-[fa="comments-o"][/fa][Discussions](https://canvas.sfu.ca/courses/61465/discussion_topics)   
-[fa="folder"][/fa][Files](https://canvas.sfu.ca/courses/61465/files)   
-[fa="calculator"][/fa][Grades](https://canvas.sfu.ca/courses/61465/gradebook)  
-[fa="list-ul"][/fa][Syllabus](https://canvas.sfu.ca/courses/61465/assignments/syllabus)  
+[fa="pencil"][/fa][Assignments](https://canvas.sfu.ca/courses/59869/assignments)  
+[fa="comments-o"][/fa][Discussions](https://canvas.sfu.ca/courses/59869/discussion_topics)   
+[fa="folder"][/fa][Files](https://canvas.sfu.ca/courses/59869/files)   
+[fa="calculator"][/fa][Grades](https://canvas.sfu.ca/courses/59869/gradebook)  
+[fa="list-ul"][/fa][Syllabus](https://canvas.sfu.ca/courses/59869/assignments/syllabus)  
 
 <hr>
+
+**80's Flashback Friday**  
+[The Psychedelic Furs - The Ghost in You](https://www.youtube.com/watch?v=T87u5yuUVi8&ab_channel=PsychedelicFursVEVO)  
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/49d25n122d98/burnaby/" data-label_1="Burnaby, BC" data-label_2="Current Weather" data-font="Open Sans" data-icons="Climacons" data-mode="Current" data-days="3" data-theme="weather_one" >Burnaby, BC Current Weather</a>
 <script>

@@ -12,4 +12,3 @@ content:
         dir: desc
 ---
 
-This site contains past, current and future offerings of CMPT-363 User Interface Design at [Simon Fraser University](https://www.sfu.ca/).

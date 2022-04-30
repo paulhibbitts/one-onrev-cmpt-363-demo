@@ -1,5 +1,5 @@
 ---
-title: 'Week 9 (Mar 8 - 14) BlackBoard Collaborate Mini-lectures and Activities'
+title: 'Week 9 (Mar 15 - 21) BlackBoard Collaborate Mini-lectures and Activities'
 published: true
 visible: true
 link_text: 'Mini-lectures and Activities'

@@ -27,7 +27,7 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-04)  
 
 ### Assignments
-[Usability Inspection Assignment](https://canvas.sfu.ca/courses/53207/assignments/457116)[badge label="Jun 15th 11:59pm PT"]
+[Usability Inspection Assignment](https://canvas.sfu.ca/courses/53207/assignments/457116)[badge label="Jun 15th 11:59pm PDT"]
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-04-1)  

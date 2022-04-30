@@ -1,5 +1,5 @@
 ---
-title: 'Week 8 ((Mar 1 - 7) BlackBoard Collaborate Review and Discussion'
+title: 'Week 8 (Mar 1 - 7) BlackBoard Collaborate Review and Discussion'
 published: true
 visible: true
 link_text: 'Review and Discussion'

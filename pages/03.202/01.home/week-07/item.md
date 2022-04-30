@@ -26,7 +26,7 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-07)  
 
 ### Assignments
-[Discovery Research and Exploratory Storyboards](https://canvas.sfu.ca/courses/53207/assignments/457109)[badge label="Jul 13th 11:59pm PT"]
+[Discovery Research and Exploratory Storyboards](https://canvas.sfu.ca/courses/53207/assignments/457109)[badge label="Jul 13th 11:59pm PDT"]
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-07-1?template=partials/embedlycardlinkonly)  

@@ -8,13 +8,13 @@ hide_git_sync_repo_link: true
 
 Instructor design reviews, no regularly scheduled Blackboard Collaborate session Dec 1st.
 
-Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PT Nov 30th and Dec 1st.
+Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PST Nov 30th and Dec 1st.
 
 ===
 
 Instructor design reviews, no regularly scheduled Blackboard Collaborate session Dec 1st.   
 
-Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PT Nov 30th and Dec 1st.
+Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PST Nov 30th and Dec 1st.
 
 ### Suggested Readings  
 [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)  

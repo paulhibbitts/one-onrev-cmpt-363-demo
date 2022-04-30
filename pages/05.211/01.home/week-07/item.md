@@ -2,7 +2,7 @@
 title: 'Week 7 (Feb 22 - 28)'
 published: true
 date: '22-02-2021 00:00'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
@@ -32,11 +32,11 @@ New
 [plugin:page-inject](/211/weekly-readings/week-07-2?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
-[User Research — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRWW-x6Q3e1PEKz3PTRD5zRzTaIIji2pmI1lmaO3AKkmDbRQIA1BpxExPDf1m5H5Q_Jvx8nGk_Rg1Kl/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording ](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[User Research — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRWW-x6Q3e1PEKz3PTRD5zRzTaIIji2pmI1lmaO3AKkmDbRQIA1BpxExPDf1m5H5Q_Jvx8nGk_Rg1Kl/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vRWW-x6Q3e1PEKz3PTRD5zRzTaIIji2pmI1lmaO3AKkmDbRQIA1BpxExPDf1m5H5Q_Jvx8nGk_Rg1Kl/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-[Week 7 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-07) | [Recording ](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vQxbBtPCrm69bKNKMdq8DjdC48E86dEChu9uhrlAzAuFl0ShhwP4MHH9eJSZtb7fxto6SeeYEuzDf8r/embed?start=false&loop=false&delayms=3000[/googleslides]
+[Week 7 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTBZJSyvjdaTTc-FRtrf20vDvfNp18DbjUfdp339G0KCRUE7YjfafDQoVv8CDIIP95BrxyyPf2ZzE06/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-07) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vTBZJSyvjdaTTc-FRtrf20vDvfNp18DbjUfdp339G0KCRUE7YjfafDQoVv8CDIIP95BrxyyPf2ZzE06/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Supplemental Readings  
 [plugin:content-inject](/211/ux-techniques-guide/how-to-understand-and-communicate-peoples-needs-and-behaviors/discovery-research)  
