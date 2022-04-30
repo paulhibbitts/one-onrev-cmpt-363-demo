@@ -26,7 +26,7 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../canvaslms-assignments/weekly-review-quizzes/week-10)  
 
 ### Assignments
-[Usability Assessed Interactive Prototype](https://canvas.sfu.ca/courses/53207/assignments/457113)[badge label="Aug 4th 11:59pm PT"]  
+[Usability Assessed Interactive Prototype](https://canvas.sfu.ca/courses/53207/assignments/457113)[badge label="Aug 4th 11:59pm PDT"]  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-10-1?template=partials/embedlycardlinkonly)  

@@ -8,14 +8,14 @@ hide_git_sync_repo_link: true
 
 Instructor design scenarios and storyboard mockups meetings, no regularly scheduled Blackboard Collaborate sessions, office hours, weekly readings or quiz.
 
-Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PT Nov 9th,
+Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PDT Nov 9th,
 Nov 10th and Nov 12th.
 
 ===
 
 Instructor design scenarios and storyboard mockups meetings, no regularly scheduled Blackboard Collaborate sessions, office hours, weekly readings or quiz.
 
-Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PT Nov 9th, 10th and 12th.
+Zoom group meetings tentatively scheduled between 11:00AM and 4:00PM PDT Nov 9th, 10th and 12th.
 
 ### Suggested Readings  
 [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)  

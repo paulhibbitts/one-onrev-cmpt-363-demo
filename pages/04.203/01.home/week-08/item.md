@@ -24,7 +24,7 @@ hide_git_sync_repo_link: true
 [plugin:page-inject](../../lms-assignments/weekly-review-quizzes/week-08)  
 
 ### Assignments
-[Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/56304/assignments/504173) [badge label="Mon Nov 16th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Mockups+Due+Date&iso=20201116T2359"]  
+[Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/56304/assignments/504173) [badge label="Mon Nov 16th 11:59pm PDT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Mockups+Due+Date&iso=20201116T2359"]  
 
 ### Required Readings  
 [plugin:page-inject](../../weekly-readings/week-08-1?template=partials/embedlycardlinkonly)  
