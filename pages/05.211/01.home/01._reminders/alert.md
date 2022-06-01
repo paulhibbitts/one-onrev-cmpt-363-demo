@@ -19,3 +19,9 @@ hide_git_sync_repo_link: false
 ### Important Reminders
 
 * [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/61465/assignments/610787) [badge label="Mon Feb 8th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Assignment+Due+Date&iso=20210208T2359" target="_top"]  
+
+### Required Readings & One-Minute Summaries
+*  [How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/61465/assignments/610785) [badge label="Thu Jan 28th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+4+%28Jan+28+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210128T2359&p1=256" target="_top"]
+*  [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/61465/assignments/610784) [badge label="Thu Jan 28th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+4+%28Jan+28+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210128T2359&p1=256" target="_top"]
+
+[button label="Week 3 Review Quiz due Jan 31" url="https://canvas.sfu.ca/courses/61465/assignments/610794" /]
