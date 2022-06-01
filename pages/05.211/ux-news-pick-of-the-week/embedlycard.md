@@ -1,6 +1,6 @@
 ---
 title: 'UX News Pick of the Week'
-published: true
+published: false
 visible: false
 embedly_card_title: '15 Simple Habits That Will Help You Become a Better UX Designer'
 embedly_card_alignment: left
