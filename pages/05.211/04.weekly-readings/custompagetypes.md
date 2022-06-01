@@ -1,5 +1,5 @@
 ---
-title: 'All Weekly Readings'
+title: 'All Readings'
 published: true
 child_type: embedlycard
 visible: true
@@ -22,4 +22,3 @@ metadata:
     'twitter:description': 'Required readings for CMPT 363 User Interface Design at Simon Fraser University'
     'twitter:image': 'http://prototype.hibbittsdesign.org/cmpt-363/193/headerimage/8447615314_85ba7d2b70_o.jpg'
 ---
-
