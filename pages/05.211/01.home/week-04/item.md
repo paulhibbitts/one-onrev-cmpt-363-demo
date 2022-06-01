@@ -22,10 +22,10 @@ No weekly review quiz.
 [plugin:page-inject](/211/weekly-readings/week-04-1?template=partials/embedlycardlinkonly)  
 
 ### BlackBoard Collaborate Session Slides
-[Special Topic — Heuristic Evaluations](https://docs.google.com/presentation/d/e/2PACX-1vRFDnupIGmRgZuyRiGohlpEmSewfReZangkCzYDeFb9KPg7yHS7C3k6hjlFdvfIwjFrMbWnEEZ_i2dh/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[Special Topic — Heuristic Evaluations](https://docs.google.com/presentation/d/e/2PACX-1vRFDnupIGmRgZuyRiGohlpEmSewfReZangkCzYDeFb9KPg7yHS7C3k6hjlFdvfIwjFrMbWnEEZ_i2dh/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording ](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vRFDnupIGmRgZuyRiGohlpEmSewfReZangkCzYDeFb9KPg7yHS7C3k6hjlFdvfIwjFrMbWnEEZ_i2dh/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-[Week 4 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTwqmEF3VIZvlKu4C7byqFDBs_x3MJi0L_3xao1WweqHg7-8Coi06NBKO-g057Vlv0c9uu4I_reWQoU/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-04) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[Week 4 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTwqmEF3VIZvlKu4C7byqFDBs_x3MJi0L_3xao1WweqHg7-8Coi06NBKO-g057Vlv0c9uu4I_reWQoU/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-04) | [Recording ](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vTwqmEF3VIZvlKu4C7byqFDBs_x3MJi0L_3xao1WweqHg7-8Coi06NBKO-g057Vlv0c9uu4I_reWQoU/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### Nielsen’s 10 Heuristics, as updated by Scott Klemmer

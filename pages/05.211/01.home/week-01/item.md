@@ -34,10 +34,10 @@ continue_link: true
 
 ### BlackBoard Collaborate Session Slides
 
-[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
+[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger [fa="bars" /]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/embed?start=false&loop=false&delayms=3000[/googleslides]
 
-[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-01) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
+[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-01) | [Recording ](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger [fa="bars"][/fa]menu)
 [googleslides]https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
@@ -46,7 +46,7 @@ continue_link: true
 
 ### Downloads
 
-[Product Reaction Cards](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Product%20Reaction%20Cards)  
+[Product Reaction Cards](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Product%20Reaction%20Cards)  
 
 ### Supplemental Readings  
 

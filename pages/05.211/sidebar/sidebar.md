@@ -20,11 +20,11 @@ Teaching Assistants
 
 ## Canvas LMS Tools
 [fa="calendar"][/fa][Calendar](https://canvas.sfu.ca/calendar)  
-[fa="pencil"][/fa][Assignments](https://canvas.sfu.ca/courses/59869/assignments)  
-[fa="comments-o"][/fa][Discussions](https://canvas.sfu.ca/courses/59869/discussion_topics)   
-[fa="folder"][/fa][Files](https://canvas.sfu.ca/courses/59869/files)   
-[fa="calculator"][/fa][Grades](https://canvas.sfu.ca/courses/59869/gradebook)  
-[fa="list-ul"][/fa][Syllabus](https://canvas.sfu.ca/courses/59869/assignments/syllabus)  
+[fa="pencil"][/fa][Assignments](https://canvas.sfu.ca/courses/61465/assignments)  
+[fa="comments-o"][/fa][Discussions](https://canvas.sfu.ca/courses/61465/discussion_topics)   
+[fa="folder"][/fa][Files](https://canvas.sfu.ca/courses/61465/files)   
+[fa="calculator"][/fa][Grades](https://canvas.sfu.ca/courses/61465/gradebook)  
+[fa="list-ul"][/fa][Syllabus](https://canvas.sfu.ca/courses/61465/assignments/syllabus)  
 
 <hr>
 

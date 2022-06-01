@@ -12,7 +12,7 @@ hide_git_sync_repo_link: false
 
 [showifembedded]
 Chat 1-on-1 Office Hours:  
-[Contact Paul](https://canvas.sfu.ca/courses/59869/external_tools/21638) here in Canvas or [CSSS Discord](https://t.co/GZQUc6iVjS)   
+[Contact Paul](https://canvas.sfu.ca/courses/61465/external_tools/22674) here in Canvas or [CSSS Discord](https://t.co/GZQUc6iVjS)   
 Mondays 12:00-12:30pm PT  
 Thursdays 12:00-12:30pm PT  
 [/showifembedded]
