@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: Home
 published: true
 visible: false
 hide_page_title: false
@@ -12,8 +12,6 @@ page-inject:
 ---
 
 [plugin:page-inject](/211/home/_reminders)
-
-[plugin:page-inject](/211/home/_office-hours)
 
 [plugin:page-inject](/211/home/_preparations)
 
