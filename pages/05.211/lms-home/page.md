@@ -13,6 +13,8 @@ page-inject:
 
 [plugin:page-inject](/211/home/_reminders)
 
+[plugin:page-inject](/211/home/_office-hours)
+
 [plugin:page-inject](/211/home/_preparations)
 
 <hr>

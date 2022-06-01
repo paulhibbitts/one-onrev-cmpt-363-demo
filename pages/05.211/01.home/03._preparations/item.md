@@ -4,13 +4,17 @@ published: true
 header_image: true
 ---
 
-## Final Exam Details
+# What’s Happening Next Week 🔭
 
-- Online Final Exam Apr 22nd 3:30pm - 6:30pm PT
-- Do a  [Browser check](https://www.whatismybrowser.com/) before - Firefox or Google Chrome recommended
-- Take the exam at a quiet location, with a wired Internet connection or strong WiFi signal
-- Write your answers in a word processing app and then paste them into Quiz answer fields
-- During the exam you can post questions in the Final Exam Clarifications discussion
-- Only press the Submit button once when you have completed the Quiz
+## Special topic — heuristic evaluations
 
-Have a question about the Final Exam? Post your question in the [Final Exam Q&A forum](https://canvas.sfu.ca/courses/59869/discussion_topics/1200040).
+### Week 4 Live Blackboard Collaborate Sessions
+
+* Mini-lectures and Activities [badge label="Tue Feb 2nd 2:30pm PT" target="_top"]
+* Open Office Hours (Zoom) [badge label="Thu Feb 4th 2:30pm PT" target="_top"]
+
+### Week 4 Required Readings and One-Minute Summaries
+
+* [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  	
+
+No weekly review quiz.  
